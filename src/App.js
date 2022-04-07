@@ -12,6 +12,7 @@ class App extends Component{
       <div className="App">
         <Header></Header>
         <Dish ></Dish>
+        <p></p>
       </div>
     );
   }
